@@ -1,0 +1,11 @@
+{
+  "name": "telegram-webhook",
+  "version": "1.0.0",
+  "description": "`telegram-webhook-js` is a library designed to interact with the Telegram Bot API, particularly suited for deployment in Cloudflare Workers. This library provides methods to send messages, handle updates, manage user data using KV storage, send photos, and set webhooks automatically.",
+  "main": "telegram-bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
